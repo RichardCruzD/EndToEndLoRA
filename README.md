@@ -2,7 +2,7 @@
 Learn how to fine tune a LoRA. 
 
 ## See it live and in action 📺 - Click the image!
-<a href="https://youtu.be/D3pXSkGceY0"><img src="https://i.imgur.com/nEfrhIQ.png"/></a>
+
 
 # Startup 🚀
 1. Startup on your machine locally by running `uv init`
